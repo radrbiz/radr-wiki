@@ -49,3 +49,6 @@ exclude:
   - .editorconfig
   - .eslintignore
   - .eslintrc.js
+plugins:
+  - jekyll-sitemap
+  - jekyll-redirect-from
