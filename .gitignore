@@ -1,0 +1,13 @@
+.DS_Store
+.bundle/
+.jekyll-cache/
+.jekyll-metadata
+
+# Editor directories and files
+Thumbs.db
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<defs>
+  <style>
+  circle,path {stroke-width: 4;fill:none;ransition: all .6s ease-in-out;stroke-linecap:round;}
+  .radar .sector {fill:url(#grad3);stroke:none;filter:url(#f2)}
+  .radar .halo {fill:url(#grad2);stroke:none;filter:url(#f1)}
+  </style>
+  <filter id="f1"><feGaussianBlur in="SourceGraphic" stdDeviation="0.3"/></filter>
+  <filter id="f2"><feGaussianBlur in="SourceGraphic" stdDeviation="0.5"/></filter>
+  <feDropShadow id="drop" dx="1" dy="1" stdDeviation="4"/>
+  <linearGradient id="grad" gradientTransform="rotate(45)">
+    <stop stop-opacity=".8" stop-color="#D7E8F5"/>
+    <stop offset="100%" stop-opacity="0" stop-color="#D7E8F5"/>
+  </linearGradient>
+  <linearGradient id="grad2" gradientTransform="rotate(45)">
+    <stop stop-opacity="1" stop-color="#D7E8F5"/>
+    <stop offset="100%" stop-opacity="0" stop-color="#D7E8F5"/>
+  </linearGradient>
+  <!-- Conic Gradient not supported yet -->
+  <linearGradient id="grad3" gradientTransform="rotate(45)">
+    <stop stop-opacity=".8" stop-color="#D7E8F5"/>
+    <stop offset="80%" stop-opacity="0" stop-color="#D7E8F5"/>
+  </linearGradient>
+
+</defs>
+<g class="radar">
+  <path class="sector" d="M50,50L1,48C1,84,31,99,48,99"/>
+  <path class="halo" d="M2,50m-2,0a2,2,0,1,0,4,0a2,2,0,1,0,-4,0C2,87,32,100,50,100C22,99,2,71,4,50"/>
+</g>
+</svg>

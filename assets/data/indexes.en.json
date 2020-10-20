@@ -1,0 +1,35 @@
+---
+layout: null
+sitemap: false
+---
+[
+{%- comment -%} Folders named by language: /en,/zh,etc... {%- endcomment -%}
+  {%- assign folders = site.collections | where: 'label', 'en' | sort: 'chapter' -%}
+{%- comment -%} Categories {%- endcomment -%}
+{%- for category in folders -%}
+  {%- comment -%} Flatted files named by `permallink: pretty` {%- endcomment -%}
+  {%- assign files = category.docs | sort: 'order' -%}
+  {%- for file in files -%}
+    {%- comment -%} Combine same chapters {%- endcomment -%}
+    {%- unless file.index -%}{%- continue -%}{%- endunless -%}
+    {%- unless file.title -%}{%- continue -%}{%- endunless -%}
+    {%- if file.excluded_in_search -%}{%- continue -%}{%- endif -%}
+    {%- assign subdocs = files | where: 'chapter', file.chapter -%}
+    {%- for subdoc in subdocs -%}
+      {%- if subdoc.index -%}{%- continue -%}{%- endif -%}
+      {%- assign url = subdoc.url | remove: '/' -%}
+      {%- if url == subdoc.lang -%}{%- continue -%}{%- endif -%}
+      {%- if added -%},{%- endif -%}{% assign added = false %}
+  {
+    "lang": "{{ subdoc.lang }}",
+    "title": "{{ subdoc.title }}",
+    "parent": "{{ file.title }}",
+    "url": "{{ subdoc.url }}",
+    "content": {{ subdoc.content | strip_html | replace_regex: "[\s/\n]+"," " | strip | jsonify }}
+  }
+      {%- assign added = true -%}
+    {%- endfor -%}
+  {%- endfor -%}
+{%- endfor -%}
+]
+

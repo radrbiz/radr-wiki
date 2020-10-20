@@ -1,0 +1,51 @@
+title: RADR Wiki
+description: Advanced payments, exchange system
+url: https://wiki.radarlab.org
+
+# Articles
+collections:
+  zh:
+    output: true
+    lang: zh
+  en:
+    output: true
+    lang: en
+
+# Jekyll Folders
+# source: ./themes/km/
+collections_dir: ./collections
+#
+force_polling: true
+incremental: true
+livereload: true
+permalink: pretty
+safe: true
+exclude:
+  # Folders
+  - dist
+  - src
+  - public
+  - Docker
+  - node_modules
+  - vendor
+  - languages
+  - .git
+  - .jekyll-cache
+  - .sass-cache
+  # Files
+  - rsync.sh
+  - docker-compose.yml
+  - README.md
+  - yarn.lock
+  - yarn-error.log
+  - Gemfile
+  - Gemfile.lock
+  - package.lock.json
+  - package.json
+  - vue.config.js
+  - babel.config.js
+  - postcss.config.js
+  - webpack.config.babel.js
+  - .editorconfig
+  - .eslintignore
+  - .eslintrc.js
