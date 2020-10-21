@@ -1,3 +1,4 @@
 ---
-redirect_to: ./en
+title: RADR Wiki
+redirect_to: /en
 ---
