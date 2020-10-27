@@ -12,7 +12,7 @@ collections:
 collections_dir: ./collections
 #
 force_polling: true
-incremental: true
+# incremental: true # That's weird, its maybe a bug
 livereload: true
 permalink: pretty
 safe: true

@@ -4,11 +4,11 @@ sitemap: false
 ---
 [
 {%- comment -%} Folders named by language: /en,/zh,etc... {%- endcomment -%}
-  {%- assign folders = site.collections | where: 'label', 'en' | sort: 'chapter' -%}
+  {%- assign folders = site.collections | where: 'label', 'en' | sort: 'chapter' | reverse -%}
 {%- comment -%} Categories {%- endcomment -%}
 {%- for category in folders -%}
   {%- comment -%} Flatted files named by `permallink: pretty` {%- endcomment -%}
-  {%- assign files = category.docs | sort: 'order' -%}
+  {%- assign files = category.docs | sort: 'order | reverse' -%}
   {%- for file in files -%}
     {%- comment -%} Combine same chapters {%- endcomment -%}
     {%- unless file.index -%}{%- continue -%}{%- endunless -%}
