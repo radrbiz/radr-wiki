@@ -16,3 +16,4 @@ RADR system, at its core, is a new model of Internet-based financial instrument.
 This document provides a complete introduction to RADR system for users with different needs, from basic to more advanced levels.
 
 ## What is RADR
+

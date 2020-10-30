@@ -1,10 +1,10 @@
 ---
-title: RADR百科
-chapter: 1
+title: 技术文档
+chapter: 3
 order: 0
 layout: default.zh
 lang: zh
 index: true
-icon: mdi-home-variant
+icon: mdi-alpha-t-circle
 sitemap: false
 ---
