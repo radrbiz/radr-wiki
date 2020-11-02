@@ -1,7 +1,7 @@
 ---
 title: MoneyMail 说明
 chapter: 1
-order: 5
+order: 6
 layout: default.zh
 lang: zh
 ---

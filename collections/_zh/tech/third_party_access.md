@@ -1,7 +1,7 @@
 ---
 title: 第三方平台接入说明
 chapter: 3
-order: 3
+order: 4
 layout: default.zh
 lang: zh
 ---

@@ -6,7 +6,7 @@ layout: default.zh
 lang: zh
 ---
 
-*  目录
+* auto-gen TOC
 {:toc}
 
 # 进入默认列表的要求
