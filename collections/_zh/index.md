@@ -24,7 +24,7 @@ permalink: /zh/
 |1、RADRInfo: 🌐 [RADR实时动态数据](https://info.radarlab.org/ledger_list.html) (如：Ledger, Tx, Account...) | |
 |2、RADRTrade: 🌐 [RADR交易平台(官方平台)](https://t.radarlab.org/index.html) | [交易平台帮助](./introduction/trade_help)  <br> [新钱包使用帮助](./introduction/trade_help) <br> [冷钱包使用说明](./tech/cold_wallet) |
 |3、RADRCharts: 🌐 [交易所K线图](https://charts.radarlab.org/) | |
-|4、雷达客户端：🌐  [iOS和Android客户端](https://www.radarlab.org/cn/download.shtml) | |
+|4、雷达客户端：🌐  [iOS和Android客户端](https://www.radarlab.org/cn/download.html) | |
 |5、开发文档：🌐 <https://radarlab.org/dev/> | |
 
 ## 技术细节
