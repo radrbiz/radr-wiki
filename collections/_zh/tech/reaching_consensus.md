@@ -1,7 +1,7 @@
 ---
 title: Ripple达成一致共识
-chapter: 4
-order: 4
+chapter: 3
+order: 5
 layout: default.zh
 lang: zh
 ---

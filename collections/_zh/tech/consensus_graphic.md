@@ -1,7 +1,7 @@
 ---
 title: Radar达成一致共识图解
-chapter: 4
-order: 6
+chapter: 3
+order: 7
 layout: default.zh
 lang: zh
 ---

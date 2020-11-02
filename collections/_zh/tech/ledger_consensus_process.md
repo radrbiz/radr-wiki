@@ -1,7 +1,7 @@
 ---
 title: 总账一致共识 过程
-chapter: 4
-order: 6
+chapter: 3
+order: 8
 layout: default.zh
 lang: zh
 ---
