@@ -2,8 +2,8 @@
 title: User Agreement
 chapter: 7
 order: 1
-layout: default.zh
-lang: zh
+layout: default.en
+lang: en
 ---
 
 *  catalog
