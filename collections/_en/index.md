@@ -37,7 +37,7 @@ For more details about RADR, see [General Introduction to RADR](./introduction/i
 | --- | --- | 
 | Data Structure: | [Account](./ds/account) , [Transit_Fees](./ds/transit_fees) |
 | API Flags: | Understanding [NoRipple](./tech/noripple) flag |
-| Knowledge Center: |[Knowledge Center](./introduction/knowledge_center)|
+| Knowledge Center: |[Knowledge Center](./tech/knowledge_center)|
 
 ## Key Roles
 

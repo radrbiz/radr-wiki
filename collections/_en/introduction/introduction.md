@@ -67,18 +67,18 @@ Market makers are essential to the liquidity of RADR Network, which in turn brin
 
 ### Main Site
 
-🌐 <Https://radarlab.org/news/> provides the latest news about RADR lab.
+🌐 <https://radarlab.org/news/> provides the latest news about RADR lab.
 
 ### Exchange
 
-🌐 <Https://t.radarlab.org/>.    works as a general exchange for all currencies.
+🌐 <https://t.radarlab.org/>.    works as a general exchange for all currencies.
 Exchange is the most important stage to realize RADR’s business values. In this platform, various roles (users, institutions, market makers, gateways) are taking activities to make transactions, increase liquidity and gain profits.
 
 Note that except the native VBC/VRP currency, other currencies are all issued by the corresponding gateway. Holding a gateway’s issuances indicates the willingness to hold gateway debt obligations. RADR network itself does not possess money of gateways. Users should carefully verify a gateway before expand a trust line to it.
 
 ### Real Time Information
   - Users can see the dynamic information of the exchange (primarily Ledger information and Transaction data) in https://info.radarlab.org  . The system is based on an open source client: radarj 🌐 <https://github.com/radrbiz/radarj>.
-  - Charts of real-time quotes: https://charts.radarlab.org/ 
+  - Charts of real-time quotes: 🌐 <https://charts.radarlab.org/>
   
 ### RADR Wikipedia
 
@@ -96,5 +96,5 @@ We firmly believe, it is essential for RADR to develop various applications and 
 
 ## Description of RADR Technology Architecture
 
-For more information, see: [Knowledge Center](../knowledge_center)
+For more information, see: [Knowledge Center](../../tech/knowledge_center)
 

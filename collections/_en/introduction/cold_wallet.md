@@ -1,7 +1,7 @@
 ---
 title: RadarWallet Cold Wallet Introduction
 chapter: 1
-order: 8
+order: 7
 layout: default.zh
 lang: en
 ---

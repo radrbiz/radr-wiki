@@ -15,7 +15,7 @@ lang: zh
 
 ### 发行
 
-为了确保用户在第三方平台上进行交易时可以获得发行收益，第三方平台上的用户必须设置一个在`radard`链上激活的地址。参见 [创建帐户](https://radarlab.org/dev/transactions.html#creating-accounts)，查看 [获取帐户信息](https://www.radarlab.org/dev-cn/radard-apis.html＃account-info) 以获取更多信息。
+为了确保用户在第三方平台上进行交易时可以获得发行收益，第三方平台上的用户必须设置一个在`radard`链上激活的地址。参见 [创建帐户](https://radarlab.org/dev/transactions.html#creating-accounts)，查看 [获取帐户信息](https://www.radarlab.org/dev-cn/radard-apis.html#account-info) 以获取更多信息。
 
 第三方平台每天都会将这些数据与 `radarlab.org` 同步。
 

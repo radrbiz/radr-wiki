@@ -1,7 +1,7 @@
 ---
 title: How to Apply Crowd-Funding in RADR
 chapter: 1
-order: 9
+order: 8
 layout: default.zh
 lang: en
 ---

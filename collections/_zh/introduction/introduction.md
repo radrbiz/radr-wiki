@@ -107,6 +107,6 @@ RADAR致力于让每个人都能参与到全球经济中来；让机构可以用
 
 ## RADAR的技术架构说明
 
-详见：[Konwledge Center](https://wiki.radarlab.org/knowledge-center)
+详见：[Konwledge Center](/en/tech/knowledge_center)
 
  [回首页](../../index)

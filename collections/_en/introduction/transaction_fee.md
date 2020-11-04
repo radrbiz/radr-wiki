@@ -1,7 +1,7 @@
 ---
 title: Transaction Fees
 chapter: 1
-order: 4
+order: 3
 layout: default.zh
 lang: en
 ---

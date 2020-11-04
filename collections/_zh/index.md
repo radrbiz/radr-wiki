@@ -22,7 +22,7 @@ permalink: /zh/
 |项目和产品| 相关文档|
 | --- | --- | 
 |1、RADRInfo: 🌐 [RADR实时动态数据](https://info.radarlab.org/ledger_list.html) (如：Ledger, Tx, Account...) | |
-|2、RADRTrade: 🌐 [RADR交易平台(官方平台)](https://t.radarlab.org/index.html) | [交易平台帮助](./introduction/trade_help)  <br> [新钱包使用帮助](./introduction/trade_help) <br> [冷钱包使用说明](./tech/cold_wallet) |
+|2、RADRTrade: 🌐 [RADR交易平台(官方平台)](https://t.radarlab.org/index.html) | [交易平台帮助](./introduction/trade_help)  <br> [新钱包使用帮助](./introduction/trade_help) <br> [冷钱包使用说明](./introduction/cold_wallet) |
 |3、RADRCharts: 🌐 [交易所K线图](https://charts.radarlab.org/) | |
 |4、雷达客户端：🌐  [iOS和Android客户端](https://www.radarlab.org/cn/download.html) | |
 |5、开发文档：🌐 <https://radarlab.org/dev/> | |
@@ -31,7 +31,7 @@ permalink: /zh/
 
 | | 相关文档 |
 | --- | --- | 
-|技术细节| [发行新币算法说明](./introduction/dividend) <br> [账号（Account）](Account) <br> 解决[双重支付问题](double-spending)的一种方法 |
+|技术细节| [发行新币算法说明](./tech/dividend) <br> [账号（Account）](./ds/account) <br> 解决[双重支付问题](./tech/double_spending)的一种方法 |
 |关键角色| [网关介绍](./gateway/start) <br> [做市商](./marketmaker/start) |
 |开源代码 | 1、Server端 源码: https://github.com/radrbiz/radard <br> 2、Java Client: https://github.com/radrbiz/radarj <br> 3、冷钱包：https://github.com/radrbiz/radar-wallet | 
 
@@ -67,5 +67,5 @@ RADR是开源的系统，遵循 ISC 协议. 详情查看上面开源地址里的
 在线支持，请添加Skype（[官网下载](http://skype.gmw.cn/down/|官网下载)）好友：radrservice
 
 # 本文其他语言
-  - [RADR百科英文](/en)
+  - [RADR百科英文](/en/)
 
