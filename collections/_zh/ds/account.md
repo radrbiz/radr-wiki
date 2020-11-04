@@ -67,4 +67,14 @@ master_seed ---> private key ---> public key ---> address(account_id)
 
 ❗️所以说，对于一个RADR里的账户，最重要、最私密的，是“种子秘钥”，这个秘钥字符串一定要保存好，不能泄露导致被外人看见和记录。
 
+# 其他语言
+
+  * [English](/en/ds/account)
+
+# 相关链接
+
+  * [RadarCN](/zh)
+  * [网关简介](../../gateway/start)
+
+
 

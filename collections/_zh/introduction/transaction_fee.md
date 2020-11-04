@@ -1,7 +1,7 @@
 ---
 title: 交易费用说明
 chapter: 1
-order: 4
+order: 3
 layout: default.zh
 lang: zh
 ---
@@ -20,3 +20,8 @@ lang: zh
     - Offer等其它交易类型：固定交易费  0.001 VRP
   - 钱包保底余额：没有要求，即，已被激活的地址里，可以把余额全部转移出去
   - 需要注意，一旦钱包里VRP余额为0了，将不能再发起任何新的交易，只能等到别的账号给他转账VRP！
+  
+# 相关链接
+   * [英文版](/en/introduction/transaction_fee)
+   * [Radar百科](/zh)
+   * [新币发行分配算法](../../tech/dividend)

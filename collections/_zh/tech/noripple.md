@@ -1,7 +1,7 @@
 ---
 title: 理解“资金流转”标记
-chapter: 4
-order: 5
+chapter: 3
+order: 10
 layout: default.zh
 lang: zh
 ---

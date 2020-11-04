@@ -4,7 +4,7 @@ layout: default.zh
 lang: zh
 permalink: /zh/
 ---
-*  目录
+* auto-gen TOC
 {:toc}
 
 # RADR百科
@@ -49,7 +49,7 @@ RADR网络上的共享总账是由全体分布式服务器共同管理的。不�
 
 ## 交易费用说明
 
-[各项费用说明](/Transaction_Fee)
+[各项费用说明](./introduction/transaction_fee)
 
 ## 版权License
 
@@ -66,5 +66,6 @@ RADR是开源的系统，遵循 ISC 协议. 详情查看上面开源地址里的
 ## 在线支持
 在线支持，请添加Skype（[官网下载](http://skype.gmw.cn/down/|官网下载)）好友：radrservice
 
-## 本文其他语言
-    - [RADR英文]
+# 本文其他语言
+  - [RADR百科英文](/en)
+

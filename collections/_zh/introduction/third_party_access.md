@@ -1,7 +1,7 @@
 ---
 title: 第三方平台接入说明
-chapter: 3
-order: 4
+chapter: 1
+order: 6
 layout: default.zh
 lang: zh
 ---
@@ -22,7 +22,7 @@ lang: zh
 为此，第三方平台必须实现：
 
   * 第三方平台必须申请API密钥；
-  * 第三方平台为 `VBC` 生成一个地址作为其 `热钱包`。参见[如何创建账号](https://radarlab.org/dev/transactions.html#creating-accounts)
+  * 第三方平台为 `VBC` 生成一个地址作为其 `热钱包`。参见[🌐 如何创建账号](https://radarlab.org/dev/transactions.html#creating-accounts)
   * 让用户为每个用户设置一个地址或生成一个关联的地址。
   * 每天使用sync API同步数据。
   * 获得收益。
@@ -34,14 +34,14 @@ lang: zh
 ### 存款
 
 第三方平台会扫描其存款地址的 `transactions`。
-  * RPC-API [[https://radarlab.org/dev/radard-apis.html#account-tx|account_tx]]
-  * `DestinationTag`：任意标签，用于标识向目的地付款或向其付款的托管钱包的原因，在这里可以用来标识不同的用户。参见🌐 <https://radarlab.org/dev/transactions.html#payment|Payment/DestinationTag>
+  * RPC-API [account_tx](https://radarlab.org/dev/radard-apis.html#account-tx)
+  * `DestinationTag`：任意标签，用于标识向目的地付款或向其付款的托管钱包的原因，在这里可以用来标识不同的用户。参见[🌐 Payment/DestinationTag] (https://radarlab.org/dev/transactions.html#payment)
 
 ### 提款
 
 第三方平台需要自己签名，然后广播到 `radard`。
-  * 如何签署`tx`：[[https://radarlab.org/dev/radard-apis.html#sign|sign-tx]]
-  * Java代码参考：[[https://github.com/radrbiz/radarj/blob/master/radar-lib/src/test/java/org/radarlab/test/TestTxn.java|sign-tx-with-java]]
+  * 如何签署`tx`：[sign-tx](https://radarlab.org/dev/radard-apis.html#sign)
+  * Java代码参考：[sign-tx-with-java](https://github.com/radrbiz/radarj/blob/master/radar-lib/src/test/java/org/radarlab/test/TestTxn.java)
 
 ## 资源列表
 
@@ -157,4 +157,4 @@ String pubKey = keyPair.pubHex(); // public key
 
 ### 如何接入
 
-请第三方平台发送邮件到 dev@radarlab.org 申请接入相关事宜。
+请第三方平台发送邮件到 <dev@radarlab.org> 申请接入相关事宜。

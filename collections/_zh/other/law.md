@@ -64,3 +64,6 @@ OFAC资源列表：🌐  <http://www.treasury.gov/resource-center/sanctions/Page
 ## 门槛（Threshold）
 
 提供网关运行地区法律政策所要求的其它任何报告。
+
+# 其他语言
+  * [Law Compliance](/en/other/law)

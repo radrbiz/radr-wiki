@@ -1,7 +1,7 @@
 ---
 title: 如何申请发行公司股权众筹
 chapter: 1
-order: 7
+order: 8
 layout: default.zh
 lang: zh
 ---
@@ -11,7 +11,7 @@ lang: zh
 
 # 如何申请发行公司股权众筹
   - 填写下列的《XXXX公司在雷达系统的股权众筹说明书》模板
-  - 提供商业计划书 (您可以参考 http://www.bplans.com/ )
+  - 提供商业计划书 (您可以参考 🌐  <http://www.bplans.com/> )
   - 将上述两材料，发送邮件至：radar@radarlab.org， 邮件标题以 “申请众筹”开头
   - 雷达实验室将人工审核项目情况，并尽快与申请人留下的方式沟通。
 
@@ -112,4 +112,7 @@ lang: zh
 二十、综合（含投资类、主业不明显） 
 二十一、其它
 ```
+
+# 其他语言
+  * [English application](/en/introduction/crowdfunding_apply)
 

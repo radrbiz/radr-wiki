@@ -92,8 +92,8 @@ RADAR致力于让每个人都能参与到全球经济中来；让机构可以用
 🌐  <https://wiki.radarlab.org/> 提供了全面的，对RADAR各个角度进行的描述。
 
 百科内容涵盖全面，是最好的了解RADAR系统的入口。当前提供两种语言的百科：
-  - [英文百科](https://wiki2.radarlab.org/en/)
-  - [中文百科](https://wiki2.radarlab.org/zh/)
+  - [英文百科](/en/)
+  - [中文百科](/zh/)
 
 ### 5. 开发者文档
 

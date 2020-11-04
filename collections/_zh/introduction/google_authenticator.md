@@ -1,7 +1,7 @@
 ---
 title: Google身份验证器
 chapter: 1
-order: 5
+order: 4
 layout: default.zh
 lang: zh
 ---

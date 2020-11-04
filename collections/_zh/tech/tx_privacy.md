@@ -1,6 +1,6 @@
 ---
 title: 隐私交易
-chapter: 4
+chapter: 3
 order: 4
 layout: default.zh
 lang: zh

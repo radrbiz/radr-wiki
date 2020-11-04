@@ -1,6 +1,6 @@
 ---
 title: User Agreement
-chapter: 7
+chapter: 8
 order: 1
 layout: default.en
 lang: en

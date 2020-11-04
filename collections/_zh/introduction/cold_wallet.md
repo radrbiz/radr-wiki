@@ -1,7 +1,7 @@
 ---
 title: RadarWallet 冷钱包说明文档
-chapter: 3
-order: 1
+chapter: 1
+order: 7
 layout: default.zh
 lang: zh
 ---
