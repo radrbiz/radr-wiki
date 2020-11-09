@@ -82,7 +82,7 @@ Note that except the native VBC/VRP currency, other currencies are all issued by
   
 ### RADR Wikipedia
 
-🌐 <https://wiki2.radarlab.org/> provides an overall description of RADR for different needs.
+🌐 <https://wiki.radarlab.org/> provides an overall description of RADR for different needs.
 
 Our Wikipedia is the best entrance for users to understand RADR system as it has a comprehensive coverage. It is presented in two languages at present:
   - [English Wikipedia](/en)
