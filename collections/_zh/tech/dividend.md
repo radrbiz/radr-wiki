@@ -17,13 +17,15 @@ lang: zh
 
 ## 一、持币排名发行
 
-$$VRATE=USERi/\Sigma_{i=1}^nUSERi$$
+$ VRATE=USERi/\\\sum_{i=1}^nUSERi $
 
 账号余额（持币量）的排名（多账号可能同名次，但是下一名次同步跳跃增长），作为该部分发行的权重。
 
 ## 二、推广发行
 
-![div2](/assets/images/tech/div2.png)
+$ VRATE=SPDSi/\\\sum_{i=1}^nSPDSi $
+
+$ SPDSi=\\\sqrt[3]{MAX(AMTj)} + \\\sum_{j=1}^m(AMTj < 10000 ? AMTj * 10 : (AMTj - 10000 + (10000 * 10))) $
 
 下图中
 
