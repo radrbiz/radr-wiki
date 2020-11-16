@@ -2,7 +2,7 @@
 title: Payment Paths
 chapter: 4
 order: 6
-layout: default.zh
+layout: default.en
 lang: en
 ---
 

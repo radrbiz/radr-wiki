@@ -2,7 +2,7 @@
 title: Reserves
 chapter: 3
 order: 4
-layout: default.zh
+layout: default.en
 lang: en
 ---
 

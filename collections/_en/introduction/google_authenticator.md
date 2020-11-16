@@ -2,7 +2,7 @@
 title: Google Authentor
 chapter: 1
 order: 4
-layout: default.zh
+layout: default.en
 lang: en
 ---
 

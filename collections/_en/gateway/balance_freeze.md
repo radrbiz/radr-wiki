@@ -2,7 +2,7 @@
 title: Balance Freeze
 chapter: 2
 order: 4
-layout: default.zh
+layout: default.en
 lang: en
 ---
 

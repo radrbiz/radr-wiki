@@ -2,7 +2,7 @@
 title: Transaction Privacy
 chapter: 3
 order: 3
-layout: default.zh
+layout: default.en
 lang: en
 ---
 

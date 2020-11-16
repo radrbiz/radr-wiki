@@ -2,7 +2,7 @@
 title: Account
 chapter: 4
 order: 1
-layout: default.zh
+layout: default.en
 lang: en
 ---
 

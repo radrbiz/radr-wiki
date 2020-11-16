@@ -2,7 +2,7 @@
 title: Account Activation
 chapter: 4
 order: 2
-layout: default.zh
+layout: default.en
 lang: en
 ---
 

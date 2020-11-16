@@ -2,7 +2,7 @@
 title: Third-party Issuance Interface Instructions
 chapter: 1
 order: 6
-layout: default.zh
+layout: default.en
 lang: en
 ---
 

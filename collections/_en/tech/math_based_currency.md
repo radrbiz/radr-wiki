@@ -2,7 +2,7 @@
 title: Math-based Currency
 chapter: 3
 order: 2
-layout: default.zh
+layout: default.en
 lang: en
 ---
 

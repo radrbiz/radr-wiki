@@ -2,7 +2,7 @@
 title: Master Key
 chapter: 4
 order: 5
-layout: default.zh
+layout: default.en
 lang: en
 ---
 

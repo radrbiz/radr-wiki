@@ -2,7 +2,7 @@
 title: Radar Gateway
 chapter: 2
 order: 1
-layout: default.zh
+layout: default.en
 lang: en
 ---
 

@@ -2,7 +2,7 @@
 title: NoRipple
 chapter: 3
 order: 6
-layout: default.zh
+layout: default.en
 lang: en
 ---
 

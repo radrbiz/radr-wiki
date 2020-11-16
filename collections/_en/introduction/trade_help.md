@@ -2,7 +2,7 @@
 title: Radar Trade Help
 chapter: 1
 order: 2
-layout: default.zh
+layout: default.en
 lang: en
 ---
 * auto-gen TOC
@@ -22,6 +22,6 @@ lang: en
 
 [How to list 3 party token](../../gateway/listedtoken)
 
-# Other Language
+***Other Language***
 
-  * [Chinese](/zh/introduction/trade_help)
+* [Chinese](/zh/introduction/trade_help)

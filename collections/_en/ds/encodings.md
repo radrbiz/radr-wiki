@@ -2,7 +2,7 @@
 title: Encodings
 chapter: 4
 order: 3
-layout: default.zh
+layout: default.en
 lang: en
 ---
 

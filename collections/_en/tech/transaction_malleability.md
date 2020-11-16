@@ -2,7 +2,7 @@
 title: Transaction Malleability
 chapter: 3
 order: 7
-layout: default.zh
+layout: default.en
 lang: en
 ---
 

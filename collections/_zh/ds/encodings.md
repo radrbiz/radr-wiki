@@ -23,31 +23,43 @@ lang: zh
 |family_public_generator	|fXXXX	|41	|Family public generator. <br> Used to generate public accounts.	|33 bytes	|53|
 |family_seed <br> validation_seed	|sXXXX	|33	|Family seed. The private generator used to generate public generator and private keys. Random or the first 128 bits of the SHA512 hash of the passphrase.	|16 bytes	|29|
 
-## 注意:
-  * RADAR使用的 base58 字典表: rpshnaf39wBUDNEGHJKLM4PQRST7VWXYZ2bcdeCg65jkm8oFqi1tuvAxyz
-    * RADAR地址可以用比特币地址算法验证，只需要替换下比特币地址的字典表。
-    * 也可以用js实现: 🌐  <https://github.com/shtylman/bitcoin-address/blob/master/base58.js>
-  * 编码算法是用base58算法计算： version + payload + 4 byte checksum
-      * 4字节的校验码能够减少拼写等错误率到 2^32分之一
-  * 校验码是对 version and payload 做 sha256/sha256哈希计算，再取前4字节
-  * Versions是为了编码后首字母固定, 以及编码后的字符串长度稳定.
-    * 🌐  [List of address prefixes](https://en.bitcoin.it/wiki/List_of_address_prefixes)
-    * 不幸的是，对于32字节的负载，只有2个前缀是稳定的， 其中一个用来给account_id。 
+## 注意
 
-## 地址图标: 
-  * 🌐  <http://en.wikipedia.org/wiki/Identicon>
-    * Clients should show a visible icon to help users identify mistypes addresses.
-  * 🌐  <https://github.com/thevash/vash>
-    * We should probably use this - Need a free licensed JavaScript version.
+* RADAR使用的 base58 字典表: rpshnaf39wBUDNEGHJKLM4PQRST7VWXYZ2bcdeCg65jkm8oFqi1tuvAxyz
 
-## 相关链接:
-  * 🌐  [Some evidence on multi-word passphrases](http://www.lightbluetouchpaper.org/2012/03/07/some-evidence-on-multi-word-passphrases/)
-  * 🌐  [RFC1751: A Convention for Human-Readable 128-bit Keys](http://tools.ietf.org/html/rfc1751)
-  * 🌐  <http://passfault.com>
-  * 🌐  <http://www.1337pages.com/password/>
-  * 🌐  <http://passwordgrid.com>
-  * 🌐  <http://www.vvsss.com/grid/>
-  * 🌐  <http://solstice.dhiver.pagesperso-orange.fr/password-grids.html>
+  * RADAR地址可以用比特币地址算法验证，只需要替换下比特币地址的字典表。
+  * 也可以用js实现: 🌐  <https://github.com/shtylman/bitcoin-address/blob/master/base58.js>
 
-# 其他语言
-  * [英语](/en/ds/encodings)
+* 编码算法是用base58算法计算： version + payload + 4 byte checksum
+
+  * 4字节的校验码能够减少拼写等错误率到 2^32分之一
+
+* 校验码是对 version and payload 做 sha256/sha256哈希计算，再取前4字节
+* Versions是为了编码后首字母固定, 以及编码后的字符串长度稳定.
+
+  * 🌐 [List of address prefixes](https://en.bitcoin.it/wiki/List_of_address_prefixes)
+  * 不幸的是，对于32字节的负载，只有2个前缀是稳定的， 其中一个用来给account_id。
+
+## 地址图标
+
+* 🌐 <http://en.wikipedia.org/wiki/Identicon>
+
+  * Clients should show a visible icon to help users identify mistypes addresses.
+
+* 🌐 <https://github.com/thevash/vash>
+
+  * We should probably use this - Need a free licensed JavaScript version.
+
+## 相关链接
+
+* 🌐 [Some evidence on multi-word passphrases](http://www.lightbluetouchpaper.org/2012/03/07/some-evidence-on-multi-word-passphrases/)
+* 🌐 [RFC1751: A Convention for Human-Readable 128-bit Keys](http://tools.ietf.org/html/rfc1751)
+* 🌐 <http://passfault.com>
+* 🌐 <http://www.1337pages.com/password/>
+* 🌐 <http://passwordgrid.com>
+* 🌐 <http://www.vvsss.com/grid/>
+* 🌐 <http://solstice.dhiver.pagesperso-orange.fr/password-grids.html>
+
+***其他语言***
+
+* [英语](/en/ds/encodings)

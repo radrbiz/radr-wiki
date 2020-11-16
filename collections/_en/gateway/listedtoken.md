@@ -2,7 +2,7 @@
 title: Listed Requirements
 chapter: 2
 order: 2
-layout: default.zh
+layout: default.en
 lang: en
 ---
 
