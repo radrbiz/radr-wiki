@@ -35,6 +35,7 @@ We let L = {Pk1, ... , Pkn} be an ordered public key set for the ring
    2. Send ring signature σ and fingerprint I to received amount from the ring.
 
 ### Signing algorithm
+
 ![sign](/assets/images/ds/sign.png)
 
 
@@ -50,7 +51,9 @@ We let L = {Pk1, ... , Pkn} be an ordered public key set for the ring
 #### Operation
 
 When initiating a transaction on the private transfer page, the sender should select an amount, and the information of the latest ring will be displayed below.
+
 ![deposit](/assets/images/ds/deposit-1.png)
+
 After selected the amount, click next to save the private key information.
 
 >Note: please keep the private key properly to avoid asset loss. Once lost, the asset will be lost forever! 
@@ -80,6 +83,7 @@ The user enters the private transfer `Get` page and enters the private key infor
 
 
 Click `Get VBC` to withdraw. the asset will be sent to the address from the ring. Accordingly, the history of the current withdrawal will be displayed below.
+
 ![withdraw](/assets/images/ds/withdraw-1.png)
 
 
