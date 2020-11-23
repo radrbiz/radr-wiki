@@ -2,9 +2,9 @@
 title: DeFi
 chapter: 8
 order: 0
-layout: default.zh
-lang: zh
+layout: default.en
+lang: en
 index: true
-icon: mdi-alpha-u-circle
+icon: mdi-alpha-d-circle
 sitemap: false
 ---
