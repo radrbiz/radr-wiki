@@ -67,7 +67,7 @@ RADR是开源的系统，遵循 ISC 协议. 详情查看上面开源地址里的
 
 ## 在线支持
 
-在线支持，请添加Skype（[官网下载](http://skype.gmw.cn/down/|官网下载)）好友：radrservice
+在线支持，请添加Skype（[官网下载](http://skype.gmw.cn/down/)）好友：radrservice
 
 ***其他语言***
 

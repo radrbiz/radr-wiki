@@ -1,6 +1,6 @@
 ---
 title: 用户协议
-chapter: 8
+chapter: 9
 order: 1
 layout: default.zh
 lang: zh
