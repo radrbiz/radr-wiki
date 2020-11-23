@@ -47,7 +47,7 @@ rsVeqrYjJbYMdar7A6c4EyscZ4WgbY92ys
 
 1. 在`概览`⻚面的`VBC`区块下点击`转换 WVBC` (图1)
 
-    ![switch-wvbc-zh](/assets/images/uniswap/wvbc/v01_convert_wvbc.png)
+    ![switch-wvbc-zh](/assets/images/defi/wvbc/v01_convert_wvbc.png)
 
     图 1
 
@@ -57,7 +57,7 @@ rsVeqrYjJbYMdar7A6c4EyscZ4WgbY92ys
 5. 点击`确认`(图2)
 6. 兑换历史可以在`转换VBC记录`区块(图2)查看
 
-    ![switch-wvbc-zh](/assets/images/uniswap/wvbc/v02_to_wvbc.png)
+    ![switch-wvbc-zh](/assets/images/defi/wvbc/v02_to_wvbc.png)
 
     图 2 
 
@@ -72,7 +72,7 @@ rsVeqrYjJbYMdar7A6c4EyscZ4WgbY92ys
 1. 在`概览`⻚面的`VBC`区块下点击`转换WVBC` (图1)
 2. 选择`转换WVBC→VBC`(图3)
 
-    ![switch-wvbc-zh](/assets/images/uniswap/wvbc/v03_to_vbc.png)
+    ![switch-wvbc-zh](/assets/images/defi/wvbc/v03_to_vbc.png)
     
     图 3
 

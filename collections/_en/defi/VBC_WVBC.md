@@ -43,7 +43,7 @@ The above is the principle and technical implementation of WVBC. In fact, as an 
 
 1. Click `Convert WVBC` under `VBC` section on the `Overview` page (Picture 1)
 
-    ![switch-wvbc-zh](/assets/images/uniswap/wvbc/v01_convert_wvbc.png)
+    ![switch-wvbc-zh](/assets/images/defi/wvbc/v01_convert_wvbc.png)
 
     Figure 1
 
@@ -53,7 +53,7 @@ The above is the principle and technical implementation of WVBC. In fact, as an 
 5. Click "Confirm" (Figure 2)
 6. The exchange history can be viewed on the `Convert WVBC Record` blockchain (Figure 2)
 
-    ![switch-wvbc-zh](/assets/images/uniswap/wvbc/v02_to_wvbc.png)
+    ![switch-wvbc-zh](/assets/images/defi/wvbc/v02_to_wvbc.png)
     
     Figure 2
 
@@ -68,7 +68,7 @@ Precautions:
 1. Click `Convert WVBC` under the `VBC` section of the `Overview` page (Figure 1)
 2. Choose `Convert WVBC→VBC` (Figure 3)
 
-    ![switch-wvbc-zh](/assets/images/uniswap/wvbc/v03_to_vbc.png)
+    ![switch-wvbc-zh](/assets/images/defi/wvbc/v03_to_vbc.png)
     
     image 3
 
