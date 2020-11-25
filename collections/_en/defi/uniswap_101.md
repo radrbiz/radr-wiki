@@ -6,6 +6,9 @@ layout: default.en
 lang: en
 ---
 
+* auto-gen TOC
+{:toc}
+
 # Uniswap 101
 
 Uniswap is currently one of the hottest DEFI projects. It is a decentralized token exchange protocol running on Ethereum, which can provide liquidity services for ETH and ERC-20 tokens.
@@ -223,4 +226,3 @@ If users want to withdraw from liquidity mining and get back the added funds, th
 1. When VBC is converted to WVBC, it will enter the Ethereum network to circulate. The Radar network will not and have no ability to intervene in WVBC circulating on the Ethereum network. Users need to fully understand the operating mechanism of the Ethereum network to use WVBC.
 2. Uniswap is a public DEFI project running on Ethereum. Radar does not participate in the development, operation and maintenance of Uniswap. All Uniswap operations involving WVBC by users are considered to be carried out with a full understanding of the principles and risks of Uniswap, and any gains and losses arising therefrom have nothing to do with Radar.
 3. The MetaMask wallet mentioned in this article has no interest relationship with Radar. Users need to fully understand its principles and use risks. Radar is not responsible for any problems arising from using the wallet.
-

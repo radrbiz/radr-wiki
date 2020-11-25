@@ -6,9 +6,12 @@ layout: default.en
 lang: en
 ---
 
+* auto-gen TOC
+{:toc}
+
 # VBC/WVBC Swap
 
-At present, most of the Ethereum-based DEFI applications are running based on the ERC20 protocol. In order to enable Radar to fully participate in and benefit from the DEFI ecosystem, we have introduced a new Ethereum-based ERC20 token, WVBC (Wrapped VBC), and a swap system that can swap between VBC and WVBC. After being converted into WVBC tokens, users can proform transactions with it in various ERC20-based DEFI applications (such as Uniswap, etc.) on the Ethereum network. This article mainly introduces what WVBC is and how to swap it with VBC.
+At present, most of the Ethereum-based DEFI applications are running based on the ERC20 protocol. In order to enable Radar to fully participate in and benefit from the DEFI ecosystem, we have introduced a new Ethereum-based ERC20 token, WVBC (Wrapped VBC), and a swap system that can swap between VBC and WVBC. After being converted into WVBC tokens, users can proform transactions with it in various ERC20-based DEFI applications (such as Uniswap, etc. refer to document ["Uniswap 101"](../uniswap_101) for how to use WVBC on Uniswap) on the Ethereum network. This article mainly introduces what WVBC is and how to swap it with VBC.
 
 ## What is WVBC
 

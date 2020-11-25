@@ -6,11 +6,14 @@ layout: default.zh
 lang: zh
 ---
 
+* auto-gen TOC
+{:toc}
+
 # VBC/WVBC 兑换
 
 目前大多数的基于以太坊的 DEFI 应用都是基于 ERC20 协议来运行的。为了让雷达充分的参与和利用 DEFI 生态， 我们引入了一种新的基于以太坊的 ERC20 代币 WVBC (Wrapped VBC)，以及一个支持雷达代币 VBC 和 WVBC 相互兑换的兑换系统。
 
-兑换为 WVBC 代币后，用戶可以在以太坊网络的各类基于 ERC20 的 DEFI 应用(如 Uniswap 等)中进行 VBC 交 易。
+兑换为 WVBC 代币后，用戶可以在以太坊网络的各类基于 ERC20 的 DEFI 应用(如 Uniswap 等，文章 [《Uniswap 101》](../uniswap_101) 提供了在Uniswap 交易 WVBC 的详细说明 )中进行 VBC 交 易。
 
 本文主要介绍什么是 WVBC，以及如何在 VBC 和 WVBC 之间进行兑换。 
 

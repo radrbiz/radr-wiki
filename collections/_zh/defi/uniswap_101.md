@@ -6,6 +6,8 @@ layout: default.zh
 lang: zh
 ---
 
+* auto-gen TOC
+{:toc}
 # Uniswap 101
 
 Uniswap 是当前最热的 DEFI 项目之一，它是一个运行在以太坊上的去中心化的代币兑换协议，可以为 ETH 和 ERC-20 代币提供流动性服务。
