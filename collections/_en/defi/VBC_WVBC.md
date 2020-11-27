@@ -73,7 +73,7 @@ Precautions:
 
     ![switch-wvbc-zh](/assets/images/defi/wvbc/v03_to_vbc.png)
     
-    image 3
+    Figure 3
 
 3. Copy `WVBC` **Redeem address** (Figure 3)
 4. Fill the copied **return address** into the transfer destination address of the ERC20 wallet, and transfer the specified amount of `WVBC` tokens to this address
