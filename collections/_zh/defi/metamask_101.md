@@ -10,7 +10,7 @@ lang: zh
 
 MetaMask 是一个简单易用的 ETH 钱包，在桌面端它以浏览器插件的形式运行，在移动端，可以安装 MetaMask 钱包 APP。本文以桌面端为例，介绍 MetaMask 的基本的安装和使用方法。
 
-## 1. 安装并 MetaMask
+## 1. 安装 MetaMask
 
 1. 首先需要安装 Chrome 浏览器，微软 Edge 浏览器，或者 Firefox 浏览器，这里以 Chrome 浏览器为例。
 

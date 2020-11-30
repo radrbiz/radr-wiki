@@ -1,7 +1,7 @@
 ---
 title: Uniswap 101
 chapter: 8
-order: 1
+order: 3
 layout: default.en
 lang: en
 ---
@@ -198,7 +198,7 @@ Since profits are in the form of tokens, and the price of tokens fluctuates, use
    * Click on `Import it` on the page below
    
     ![](/assets/images/defi/uni101/a39_uniswap_pool_import.png)
-    
+   
    * Select the token pair, and click `Manage this pool` to add the token pair pool to the list
    
     ![](/assets/images/defi/uni101/a40_uniswap_pool_usdt_wvbc.png)
