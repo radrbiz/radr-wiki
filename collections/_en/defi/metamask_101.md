@@ -2,8 +2,8 @@
 title: MetaMask 101
 chapter: 8
 order: 4
-layout: default.zh
-lang: zh
+layout: default.en
+lang: en
 ---
 
 # MetaMask 101

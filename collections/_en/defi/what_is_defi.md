@@ -2,8 +2,8 @@
 title: What is DeFi ?
 chapter: 8
 order: 1
-layout: default.zh
-lang: zh
+layout: default.en
+lang: en
 ---
 
 * auto-gen TOC
