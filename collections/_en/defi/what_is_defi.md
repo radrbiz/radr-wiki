@@ -17,7 +17,7 @@ DeFi is short for 'Decentralized Finance'. It usually refers to encrypted assets
 
 "Decentralized finance" is relative to traditional financial institutions. Traditional financial institutions provide services such as payment, savings, lending, and insurance, and these services all rely on centralized financial institutions (such as banks) to operate.
 
-It is undeniable that that traditional, regulated financial institutions that comply with government laws and regulations such as banks are some of the most secure places to park funds. But they are not without flaws—even large banks can fail: in 2008, Washington Mutual, with deposits over US$188 billion, and Lehman Brothers, with assets over US$639 billion, both failed. In the United States alone, there are records of over 500 bank failures.
+It is undeniable that that traditional, regulated financial institutions that comply with government laws and regulations such as banks are some of the most secure places to park funds. But they are not without flaws—even large banks can fail: in 2008, Washington Mutual, with deposits over 188 billion USD, and Lehman Brothers, with assets over 639 billion USD, both failed. In the United States alone, there are records of over 500 bank failures.
 
 Banks are one of the central nodes leading to the collapse of the financial system-the collapse of Lehman Brothers triggered the 2008 financial crisis. It is very dangerous to concentrate power and funds in the hands of banks.
 
