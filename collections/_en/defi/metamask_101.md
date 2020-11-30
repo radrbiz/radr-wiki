@@ -6,6 +6,9 @@ layout: default.en
 lang: en
 ---
 
+* auto-gen TOC
+{:toc}
+
 # MetaMask 101
 
 MetaMask is a simple and easy-to-use ETH wallet. It runs as a browser plug-in on the desktop, and as an APP on mobile phones. This article uses the desktop browser plugin as an example to introduce the basic installation and usage of MetaMask.

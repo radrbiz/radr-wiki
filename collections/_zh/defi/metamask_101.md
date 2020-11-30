@@ -6,6 +6,9 @@ layout: default.zh
 lang: zh
 ---
 
+* auto-gen TOC
+{:toc}
+
 # MetaMask 入门
 
 MetaMask 是一个简单易用的 ETH 钱包，在桌面端它以浏览器插件的形式运行，在移动端，可以安装 MetaMask 钱包 APP。本文以桌面端为例，介绍 MetaMask 的基本的安装和使用方法。
