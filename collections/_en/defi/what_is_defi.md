@@ -75,18 +75,6 @@ There are many cryptocurrency wallets on the market, each with its own character
 
 You can refer to our article ["MetaMask 101"](../metamask_101) to learn the basic usage of MetaMask.
 
-## 5. 去中心化稳定币
-
-加密货币的价格非常不稳定。为了减缓这种波动，价格锚定诸如美元等稳定资产的稳定币被创造出来。稳定币可以帮助用户对冲加密 货币价格的波动，并用作一种可靠的交易媒介。稳定币从此快速地演变为DeFi的一个强有力组件，成为这个模块化生态的关键。
-
-非所有稳定币都一样，因为它们采用了不同的机制来锚定美元。锚定类型有两种，法币抵押型和加密货币抵押型。大部分稳定币采用了法币抵押型系统来维持对美元的锚定。
-
-Tether (USDT) 通过每铸造 1 枚 Tether 代币持有 1 美元准备金的方式将自身锚定为 1 美元。虽然Tether是规模最大且使用最广泛的稳定币，但是 Tether 的储备金保存在金融机构种，用户不得不去信任 Tether 作为一个实体确实拥有其声称的准备金数额。因此，Tether是一种中心化的，法币抵押型稳定币。
-
-另一方面，Dai (DAI) 是通过加密货币(如ETH)抵押生成的。Dai 的价值是通过由一个去中心化自治组织表决的协议和智能合约来实 现与1美元锚定。在任何给定的时间，用于生成 DAI 的抵押品都可以 很容易被用户验证。DAI是一种去中心化，加密货币作抵押的稳定币。
-
-DAI是在DeFi生态中使用最为广泛的原生稳定币。DAI是DeFi交易、 DeFi借贷等领域首选的美元稳定币。
-
 ## 5. Decentralized Stablecoins
 
 The price of cryptocurrency is very volatile. In order to mitigate this volatility, stablecoins with prices anchored to stable assets such as the US dollar were created. Stablecoins can help users hedge against fluctuations in cryptocurrency prices and serve as a reliable trading medium. Since then, stablecoins have rapidly evolved into a powerful component of DeFi and become the key to this modular ecosystem.
