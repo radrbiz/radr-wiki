@@ -89,9 +89,9 @@ DAI is the most widely used native stablecoin in the DeFi ecosystem. DAI is the 
 
 ## 6. Decentralized lending and borrowing
 
-Fund lending is one of the most common services provided by the financial industry, which is facilitated by the concept of credit and guarantee. It can be said that the invention of commercial-scale lending brought the Renaissance era, and the less wealthy people could also obtain start-up funds through borrowing, which triggered a boom in economic activity. Therefore, the economy began to grow at an unprecedented rate.
+Fund lending and borrowing is one of the most common services offered by the financial industry, which is made possible by the concept of credit and collateralization. It can be said that the invention of commercial-scale lending and borrowing brought the Renaissance era, and the less wealthy people could also obtain start-up funds through borrowing, which triggered a boom in economic activity. Thus, the economy began to grow at an unprecedented pace.
 
-However, this lending system requires some form of trust and intermediary. The role of the intermediary is assumed by the bank, and trust is maintained by a complex credit system, that is, the borrower must show the ability to repay the loan to obtain the qualification for borrowing. This is one of a series of qualifications and requirements that the bank puts forward.
+However, this lending and borrowing system requires some form of trust and intermediary. The role of the intermediary is assumed by the bank, and trust is maintained by a complex credit system, that is, the borrower must show the ability to repay the loan to obtain the qualification for borrowing. This is one of a series of qualifications and requirements that the bank puts forward.
 
 This has led to various questions and deficiencies in the current lending system, such as restrictive funding standards, geographic location or legal restrictions on access to banking services, high barriers to loan approvals, and the exclusive benefits of low-risk, high-return loans for the rich.
 
