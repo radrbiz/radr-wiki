@@ -118,13 +118,13 @@ We don't recommend. Because ARM and the generated account are bundled with a quo
 
 **Do not transfer ARM directly to RADR wallet, you need to burn ARM back to VBC.**
 
-For specific operations, please visit [https://docs.genechain.io/v/chinese/user-manual/staking/how-to-get-arm#burn](https://docs.genechain.io/v/master/user-manual/staking/how-to-get-arm).
+For specific operations, please visit [https://docs.genechain.io/v/master/user-manual/staking/how-to-get-arm](https://docs.genechain.io/v/master/user-manual/staking/how-to-get-arm).
 
 If ARM does not perform the burn operation to generate VBC, and transfers the funds to the RADR wallet directly, you can go to RADR wallet to submit a feedback form for processing.
 
 ### The transaction has been waiting in metamask
 
-For specific operations, please visit [https://docs.genechain.io/v/chinese/user-manual/faq/jiao-yi-zai-metamask-shang-yi-zhi-deng-dai](https://docs.genechain.io/v/master/user-manual/faq/transaction-always-pending-on-metamask).
+For specific operations, please visit [https://docs.genechain.io/v/master/user-manual/faq/transaction-always-pending-on-metamask](https://docs.genechain.io/v/master/user-manual/faq/transaction-always-pending-on-metamask).
 
 ## About Novaswap
 
