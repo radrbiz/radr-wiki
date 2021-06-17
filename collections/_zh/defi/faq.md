@@ -105,7 +105,7 @@ GeneChain是一个雷达募集的智能合约区块链项目，是由雷达实�
 
 ### 关于RADR钱包添加ARM网关
 
-官方不推荐交易ARM，因为ARM和生成账号捆绑了额度，只有生成的账号有额度burn回VBC. 如果交易给其他的账号，一旦该账号没有生成过ARM，则无法burn ARM生成VBC。
+官方不推荐交易ARM，因为ARM和生成账号捆绑了额度，只有生成的账号有额度`burn`回VBC. 如果交易给其他的账号，一旦该账号没有生成过ARM，则无法`burn` ARM生成VBC。
 
 ### metamask转账目标地址写错
 
@@ -113,7 +113,7 @@ GeneChain是一个雷达募集的智能合约区块链项目，是由雷达实�
 
 ### 通过ARM赎回您的VBC
 
-**<font color='#ff2600'>切勿将ARM直接转到RADR钱包，需要将ARM burn回VBC。</font>**
+**<font color='#ff2600'>切勿将ARM直接转到RADR钱包，需要将ARM `burn`回VBC。</font>**
 
 具体操作步骤详见：[https://docs.genechain.io/v/chinese/user-manual/staking/how-to-get-arm#burn](https://docs.genechain.io/v/chinese/user-manual/staking/how-to-get-arm#burn)
 
@@ -149,7 +149,7 @@ ARM未进行burn操作生成VBC, 就直接转账到RADR钱包的情况，您可�
 
 ### Swap 操作的成本是什么
 
-1. 每笔swap固定收取的0.3%的手续费，从你付出的token中扣除。
+1. 每笔swap固定收取的0.3%的手续费，从你付出的`token`中扣除。
 2. 每笔swap交易发出的RNA手续费，支付给GeneChain链上的矿工节点。
 
 ### Swap 对流动性池有什么影响

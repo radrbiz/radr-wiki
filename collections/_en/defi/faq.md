@@ -108,7 +108,7 @@ Apps running on the GeneChain have publicly audited smart contract codes.
 
 ### About add ARM gateway on RADR wallet
 
-We don't recommend. Because ARM and the generated account are bundled with a quota, and only the generated account has the quota to burn back to VBC. If it is traded to another account, once the account has not generated ARM, it will not be able to burn ARM to generate VBC.
+We don't recommend. Because ARM and the generated account are bundled with a quota, and only the generated account has the quota to `burn` back to VBC. If it is traded to another account, once the account has not generated ARM, it will not be able to `burn` ARM to generate VBC.
 
 ### About the wrong address of the metamask transfer destination
 
@@ -116,7 +116,7 @@ We don't recommend. Because ARM and the generated account are bundled with a quo
 
 ### Redeem your VBC through ARM
 
-**Do not transfer ARM directly to RADR wallet, you need to burn ARM back to VBC.**
+**Do not transfer ARM directly to RADR wallet, you need to `burn` ARM back to VBC.**
 
 For specific operations, please visit [https://docs.genechain.io/v/master/user-manual/staking/how-to-get-arm](https://docs.genechain.io/v/master/user-manual/staking/how-to-get-arm).
 
