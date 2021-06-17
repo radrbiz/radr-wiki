@@ -116,7 +116,7 @@ We don't recommend. Because ARM and the generated account are bundled with a quo
 
 ### Redeem your VBC through ARM
 
-**Do not transfer ARM directly to RADR wallet, you need to `burn` ARM back to VBC.**
+**Do not transfer ARM directly to RADR wallet, you need to burn ARM back to VBC.**
 
 For specific operations, please visit [https://docs.genechain.io/v/master/user-manual/staking/how-to-get-arm](https://docs.genechain.io/v/master/user-manual/staking/how-to-get-arm).
 
