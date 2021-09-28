@@ -11,7 +11,7 @@ lang: zh
 
 # Google身份验证
 
-支持Google验证码的app包括微软验证器（Microsoft Authenticator）、 Google Authenticator等，可以通过应用商店进行下载。
+支持动态口令的app包括微软验证器（Microsoft Authenticator）、 Google Authenticator等，可以通过应用商店进行下载。
 
 雷达钱包账户系统现支持Google的动态口令。在手机端生成动态口令后，交易中除了用正常交易密码外，需要输入一次动态口令才能验证成功，消除账户遭到恶意攻击的潜在可能。
 

@@ -11,7 +11,7 @@ lang: en
 
 # Google Authentor
 
-Apps that support Google verification codes include Microsoft Authenticator, Google Authenticator, etc.
+Apps that support "Two-step verification" (or 2-Step Verification) include Microsoft Authenticator, Google Authenticator, etc.
 
 Authenticator provides a six- to eight-digit one-time password which users must provide in addition to their username and password to log into Google services or other sites. The Authenticator can also generate codes for third-party applications, such as password managers or file hosting services. Previous versions of the software were open source. 
 
