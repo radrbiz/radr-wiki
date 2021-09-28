@@ -9,9 +9,13 @@ lang: zh
 * auto-gen TOC
 {:toc}
 
-# Google身份验证器
+# Google身份验证
 
-Google Authenticator（Google身份验证器）v2.33 是谷歌推出的一款*动态口令*{: style="color: red"}工具，消除账户遭到恶意攻击的潜在可能。雷达钱包账户系统现支持Google的动态口令。在手机端生成动态口令后，交易中除了用正常交易密码外，需要输入一次动态口令才能验证成功。
+支持Google验证码的app包括微软验证器（Microsoft Authenticator）、 Google Authenticator等
+
+雷达钱包账户系统现支持Google的动态口令。在手机端生成动态口令后，交易中除了用正常交易密码外，需要输入一次动态口令才能验证成功，消除账户遭到恶意攻击的潜在可能。
+
+本文以Google Authenticator为例，介绍 Google Authenticator 的基本的安装和使用方法。
 
 ## 启用Google身份验证器
 

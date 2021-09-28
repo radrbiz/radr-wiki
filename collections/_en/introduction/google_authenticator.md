@@ -11,7 +11,11 @@ lang: en
 
 # Google Authentor
 
-Google Authenticator v2.33 is an application that implements TOTP security tokens from RFC 6238 in mobile apps made by Google, sometimes branded "Two-step verification" (or 2-Step Verification). Authenticator provides a six- to eight-digit one-time password which users must provide in addition to their username and password to log into Google services or other sites. The Authenticator can also generate codes for third-party applications, such as password managers or file hosting services. Previous versions of the software were open source. 
+Apps that support Google verification codes include Microsoft Authenticator, Google Authenticator, etc.
+
+Authenticator provides a six- to eight-digit one-time password which users must provide in addition to their username and password to log into Google services or other sites. The Authenticator can also generate codes for third-party applications, such as password managers or file hosting services. Previous versions of the software were open source. 
+
+This article uses the Google Authenticator as an example to introduce the basic installation and usage of Google Authenticator.
 
 ## Technical description
 
