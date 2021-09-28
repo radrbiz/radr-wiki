@@ -85,6 +85,4 @@ Google Authenticator supports iOS，Android and blackberry;
 
 ### Find your Google Authenticator back
 
-  1. if your phone is lost or the code in the app is removed, you could use "Reset" to set a new code.
-  2. Choose “Reset”，an email will be sent to your address, you could follow the instructions of the mail to reset your Google Authenticator code.
-  3. When you click the link in your mail, the system will reset your code. Old code will be expired and new code will take effect.
+If you have passed the ID Verification, you can submit feedback order to reset it.
